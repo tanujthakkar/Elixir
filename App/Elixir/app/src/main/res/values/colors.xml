@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#000000</color>
+
+    <color name="button_default">#D2D2D2</color>
+    <color name="line_default">#FFFFFF</color>
+    <color name="status_active">#34A853</color>
+    <color name="status_inactive">#EA4335</color>
+    <color name="status_auto">#4285F4</color>
+    <color name="yellow">#FBBC05</color>
+
+</resources>

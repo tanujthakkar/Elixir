@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <shape android:shape="rectangle">
+            <!--make a gradient background-->
+            <gradient
+                android:type="linear"
+                android:startColor="#184e26"
+                android:endColor="@color/status_active"
+                android:angle="90"
+                android:gradientRadius="90" />
+
+            <corners android:radius="10sp"/>
+        </shape>
+    </item>
+
+</selector>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "768695014518",
+    "firebase_url": "https://elixir-163f8.firebaseio.com",
+    "project_id": "elixir-163f8",
+    "storage_bucket": "elixir-163f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768695014518:android:96c21e6e029916eb",
+        "android_client_info": {
+          "package_name": "com.stellarlabs.elixir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768695014518-qal754b5olgee6pe2fj4lckofet856uq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stellarlabs.elixir",
+            "certificate_hash": "a9b88cd23c1a876e1255cdc1c722c5c1faf1f9cc"
+          }
+        },
+        {
+          "client_id": "768695014518-4lp3ha4i83qrc5jrpcob8l4jvqnvbpd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPPrqNU4qkwhOVKk34iZ7EaFRQNRJXtFM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768695014518-4lp3ha4i83qrc5jrpcob8l4jvqnvbpd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
